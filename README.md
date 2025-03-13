@@ -8,7 +8,7 @@ Run the code `reproduce.ipynb` to generate the book report. The code in `all_scr
 
 # Workflow
 
-Diagram in workflow.png
+![Workflow](workflow.png)
 
 # Testing
 
